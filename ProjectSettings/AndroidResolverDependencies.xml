@@ -1,0 +1,16 @@
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+  <androidPackages>
+    <androidPackage spec="com.android.support:support-v4:27.1.1" />
+    <androidPackage spec="com.google.android.gms:play-services-base:16.1.0" />
+    <androidPackage spec="com.google.android.gms:play-services-basement:16.2.0" />
+    <androidPackage spec="com.google.android.gms:play-services-tasks:16.0.1" />
+    <androidPackage spec="com.google.firebase:firebase-common:16.0.3" />
+    <androidPackage spec="com.google.firebase:firebase-iid:17.1.2" />
+    <androidPackage spec="com.google.firebase:firebase-measurement-connector:17.0.1" />
+    <androidPackage spec="com.google.firebase:firebase-analytics:16.5.0" />
+    <androidPackage spec="com.google.firebase:firebase-ml-vision:19.0.3" />
+  </androidPackages>
+</dependencies>
+```
